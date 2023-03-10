@@ -1,0 +1,125 @@
+{
+  "channels": [
+    {
+      "channelId": "1",
+      "channelName": "For All",
+      "privacy": "Public"
+    },
+    {
+      "channelId": "2",
+      "channelName": "🔒Staff members",
+      "privacy": "Private"
+    }
+  ],
+  "users": [
+    {
+      "userId": "1",
+      "username": "Admin",
+      "password": "$2a$10$FjyE/AeOGKTKGecj88BeeOOiy8wOtThD2Ps1a6ZIwb9uJDkVgoFeG"
+    },
+    {
+      "userId": 2,
+      "username": "Bittu1",
+      "password": "$2a$10$Ty.Qx6JJ3kOsa3W0/2AJiemsheZjLg.8eNlD3pzCyXyccr1/mE9w6"
+    },
+    {
+      "userId": 3,
+      "username": "Nandini",
+      "password": "$2a$10$fPCpgoqo1CJ1CKasgaSHdeW24F.OYHrU2XAz7cDXpSerFKfeSaBc."
+    },
+    {
+      "userId": 4,
+      "username": "admin",
+      "password": "$2a$10$RRWBXh6DA..eELj/Hqz1xu95gUZh4rHo/3EEsutWG5drKmo6tyHWC"
+    },
+    {
+      "userId": 5,
+      "username": "Jonh",
+      "password": "$2a$10$Xb3bCIBKH8gpBLdOJG0hMOrTu3Vv0ZEZRaHgFSAujvVJ5yowJdJk6"
+    },
+    {
+      "userId": 6,
+      "username": "carl",
+      "password": "$2a$10$iMdtHyZh/2x2Fo4.0klnLOsByOAdj1P8WvgvNTOBqTaz.MiM8au.C"
+    }
+  ],
+  "messages": [
+    {
+      "messageId": 1,
+      "messageText": "Hi",
+      "date": "6-3-2023 18:55:16",
+      "userId": 0,
+      "channelId": "1"
+    },
+    {
+      "messageId": 2,
+      "messageText": "Heloo",
+      "date": "7-3-2023 13:51:3",
+      "userId": 0,
+      "channelId": "1"
+    },
+    {
+      "messageId": 3,
+      "messageText": "hi",
+      "date": "7-3-2023 14:1:43",
+      "userId": "1",
+      "channelId": "2"
+    },
+    {
+      "messageId": 4,
+      "messageText": "hello",
+      "date": "9-3-2023 20:46:7",
+      "userId": 2,
+      "channelId": "2"
+    },
+    {
+      "messageId": 5,
+      "messageText": "I am ok",
+      "date": "9-3-2023 20:48:57",
+      "userId": 0,
+      "channelId": "1"
+    },
+    {
+      "messageId": 6,
+      "messageText": "what are you doing ",
+      "date": "9-3-2023 20:50:46",
+      "userId": 4,
+      "channelId": "2"
+    },
+    {
+      "messageId": 7,
+      "messageText": "Good morning",
+      "date": "10-3-2023 8:14:37",
+      "userId": 0,
+      "channelId": "1"
+    },
+    {
+      "messageId": 8,
+      "messageText": "Hello",
+      "date": "10-3-2023 8:15:4",
+      "userId": 4,
+      "channelId": "2"
+    },
+    {
+      "messageId": 9,
+      "messageText": "hi",
+      "date": "10-3-2023 10:51:47",
+      "userId": 0,
+      "channelId": "1"
+    },
+    {
+      "messageId": 10,
+      "messageText": "Hi",
+      "date": "10-3-2023 10:52:28",
+      "userId": 4,
+      "channelId": "2"
+    },
+    {
+      "messageId": 11,
+      "messageText": "hello guys",
+      "date": "10-3-2023 10:53:56",
+      "userId": 6,
+      "channelId": "2"
+    }
+  ]
+}
