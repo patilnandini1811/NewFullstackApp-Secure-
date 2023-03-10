@@ -11,7 +11,7 @@ Starting the app
 
 git clone
 
-npm instal
+npm install
 
 npm run start.
 
