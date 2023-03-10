@@ -1,19 +1,11 @@
-#SecureChat
+#SecureChatApp
 
-App Information
-Username: Admin
-Password: 123
-
-Channels
-General Public - This channel is open for all users, both authorized and unauthorized.
-Only Member Private - This channel is only for authorized users.
-
-Features
-Authorized users can create new chat channels that can be open for all users or only for authorized users.
-
-Level: G,
-
+Credentials for login:
+Username: admin
+Password: admin
+New users can also sign up themselves. Registered users can login. Here I used jwt tokens and hash salt (password ). Channels can be listed from database and on channels selections ,here is Public and Private channels for access private channel user need to login or register first. User can send message with (ddmmyy )and time and the user name. Messages can be saved in the database.
 Starting the app
-git clone  
-npm install  
-npm run start. 
+git clone
+npm instal
+npm run start.
+Script.js
